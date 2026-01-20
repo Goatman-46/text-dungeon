@@ -41,7 +41,7 @@
         <strong>Upgrades (Cost: 2 Points)</strong>
         <div class="controls">
             <button id="upg-atk" onclick="upgrade('atk')">+1 Attack</button>
-            <button id="upg-hp" onclick="upgrade('hp')">+5 Max HP</button>
+            <button id="upg-hp" onclick="upgrade('hp')">+500 Max HP</button>
         </div>
     </div>
 </div>
